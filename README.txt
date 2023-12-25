@@ -1,0 +1,1 @@
+# This is a minimal pytorch implementation of the FCOS object detection algorithm (https://arxiv.org/abs/1904.01355). The model is trained and evaluated on the PASCAL VOC 2007 dataset (http://host.robots.ox.ac.uk/pascal/VOC/voc2007/index.html). 
